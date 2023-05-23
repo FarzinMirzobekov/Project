@@ -1,8 +1,8 @@
 # 2D Game
 A 2D Mario game. It was planned to be created using a self made simple game engine.
 The project and knowledge were taken from a YouTUbe tutorial. Link: https://www.youtube.com/watch?v=025QFeZfeyM&t=11999s
-The main library used is: LWJGL
-Was created in IntelliJ IDEA
+.The main library used is: LWJGL
+Was created in IntelliJ IDEA.
 Due to it being unfinished, I do not know how to properly run it.
 Shaders, Camera, and Window were tested.
 I stopped in Textures part.
